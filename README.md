@@ -13,12 +13,12 @@
 </div>
 <br/>
 
-### About me
+## About me
 - I am just starting my journey in mobile development.
 - I have extensive experience in technical support.
 - More details in my [resume](https://drive.google.com/file/d/1w0Gxe_YzYzFj0Dd5eG2S1esvEFBRJvab/view?usp=sharing)
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;&nbsp;
